@@ -1,0 +1,26 @@
+.slider {
+  margin-top: 50px;
+}
+.slider .item img {
+  width: 100%;
+}
+.landing .container > .row {
+  margin: 30px 0;
+}
+.landing .gray-bg {
+  background-color: #f7f7f7;
+}
+.landing .portfolio > div {
+  margin: 15px 0;
+}
+.landing .testimonials .popover {
+  position: relative;
+  display: block;
+  float: left;
+  width: 100%;
+  margin: 20px 0;
+  max-width: 100%;
+}
+.landing .contact-us textarea.form-control {
+  height: 100px;
+}
